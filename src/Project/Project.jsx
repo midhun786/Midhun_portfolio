@@ -43,7 +43,7 @@ function Project() {
           <div class="btn-group" role="group" >
             <a href="#" type="button" class="btn btn-outline-danger">F_CODE</a>
             <a href="#" type="button" class="btn btn-outline-danger">B_CODE</a>
-            <a href="#" type="button" class="btn btn-outline-danger">DEMO</a>
+            
           </div>
         </div>
       </div>
@@ -60,7 +60,7 @@ function Project() {
           <div class="btn-group" role="group" aria-label="Basic outlined example">
             <a href="#" type="button" class="btn btn-outline-danger">F_CODE</a>
             <a href="#" type="button" class="btn btn-outline-danger">B_CODE</a>
-            <a href="#" type="button" class="btn btn-outline-danger">DEMO</a>
+          
           </div>
 
         </div>
@@ -78,7 +78,7 @@ function Project() {
           <div class="btn-group" role="group" aria-label="Basic outlined example">
             <a href="#" type="button" class="btn btn-outline-danger">F_CODE</a>
             <a href="#" type="button" class="btn btn-outline-danger">B_CODE</a>
-            <a href="#" type="button" class="btn btn-outline-danger">DEMO</a>
+       
           </div>
 
         </div>
@@ -96,7 +96,7 @@ function Project() {
           <div class="btn-group" role="group" aria-label="Basic outlined example">
             <a href="#" type="button" class="btn btn-outline-danger">F_CODE</a>
             <a href="#" type="button" class="btn btn-outline-danger">B_CODE</a>
-            <a href="#" type="button" class="btn btn-outline-danger">DEMO</a>
+           
           </div>
 
         </div>
@@ -115,7 +115,7 @@ function Project() {
           <div class="btn-group" role="group" aria-label="Basic outlined example">
             <a href="#" type="button" class="btn btn-outline-danger">F_CODE</a>
             <a href="#" type="button" class="btn btn-outline-danger">B_CODE</a>
-            <a href="#" type="button" class="btn btn-outline-danger">DEMO</a>
+        
           </div>
 
         </div>

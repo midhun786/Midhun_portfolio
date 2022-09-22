@@ -42,7 +42,7 @@ function Contact() {
         <div className="col-lg-6">
           <div className="row">
             <label className="d-flex justify-content-end fw-bold fs-1"style= {{color:"rgb(155, 28, 49)"}}>Email</label>
-            <a className="fs-4 fw-normal fst-italic d-flex justify-content-lg-end justify-content-sm-end" href="midhunkumarengineer98@gmail.com">midhunkumarengineer98@gmail.com</a>
+            <div className="fs-4 fw-normal fst-italic d-flex justify-content-lg-end justify-content-sm-end" href="midhunkumarengineer98@gmail.com">midhunkumarengineer98@gmail.com</div>
 
             <label className="d-flex justify-content-end fw-bold fs-1" style= {{color:"rgb(155, 28, 49)"}}>Address</label>
             <div className="fs-4 fw-normal fst-italic d-flex justify-content-lg-end justify-content-sm-end">No:50,Ayyer madem street,cuddalore district</div>

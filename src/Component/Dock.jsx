@@ -4,6 +4,7 @@ import Contact from '../Contact/Contact'
 import Project from '../Project/Project'
 import Resume from '../Resume/Resume'
 import Skill from '../Skill/Skill'
+import resume from "../Component/Images/resume.pdf"
 
 function Dock() {
     return (
@@ -12,13 +13,13 @@ function Dock() {
             <section id="hero" className="d-flex flex-column justify-content-center align-items-center">
                 <div className="hero-container ms-3">
                     <h1 className="prop-0">Midhun</h1>
-                    <p> <img src={"https://readme-typing-svg.herokuapp.com/?size=20&font=Edu+VIC+WA+NT+Beginner&duration=6000&color=ffffff&size=32&center=true&vCenter=true&width=380&height=50&lines=I'm+Full-StackWeb+Developer;"}/></p>
+                    <p> <img src={"https://readme-typing-svg.herokuapp.com/?size=20&font=Edu+VIC+WA+NT+Beginner&duration=6000&color=ffffff&size=32&center=true&vCenter=true&width=380&height=50&lines=I'm+Full-StackWeb+Developer"}/></p>
                     <div className="row">
                 <div className="col-sm-4 col-6">
                   <a href={""} target="_blank" rel="noreferrer">
-                    <button type="button" className="btn btn-danger" >
+                    <a href={resume} download type="button" className="btn btn-danger">
                       Resume
-                    </button>
+                    </a>
                   </a>
                 </div>
                 <div className="col-sm-5 col-6">

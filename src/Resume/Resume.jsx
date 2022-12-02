@@ -1,4 +1,6 @@
 import React from 'react'
+import Project6 from "../Resume/Images/Resume.png"
+import resume from "../Resume/Images/resume.pdf"
 
 function Resume() {
     return (
@@ -17,9 +19,9 @@ function Resume() {
                                     <div className="row">
                                         <div className="col-lg-12">
                                             <div className="card" id='card' style={{width: "18rem"}}>
-                                                <img src="./img/portfolio/portfolio-1.jpg" class="card-img-top" alt="..."/>
+                                                <img src={Project6} class="card-img-top" alt="..."/>
                                                     <div className="card-body d-flex justify-content-center">
-                                                        <button className='btn btn-success'>Download</button>
+                                                        <a href={resume} className='btn btn-success' download>Download</a>
                                                     </div>
                                             </div>
                                         </div>

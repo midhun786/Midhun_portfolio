@@ -1,6 +1,17 @@
 import React from 'react'
+import Lottie from 'react-lottie';
+import animationData from "../lottie/data1.json"
 
 function About() {
+  const defaultOptions = {
+    loop: true,
+    autoplay: true, 
+    animationData: animationData,
+    rendererSettings: {
+      preserveAspectRatio: 'xMidYMid slice'
+    }
+  }
+
   return (
     <>
       <section className="breadcrumbs">
@@ -17,8 +28,12 @@ function About() {
 
                   <div className="row">
                     <div className="col-lg-4" data-aos="fade-right">
-                      <img src={"./img/clean.jpeg"} style={{height:"30rem",width:"22rem",borderRadius:"10%",transition: "ease-in",}} className="img-fluid" alt="" />
-                    </div>
+                      {/* <img src={view} style={{height:"30rem",width:"22rem",borderRadius:"10%",transition: "ease-in",}} className="img-fluid" alt="" /> */}
+                      <Lottie options={defaultOptions}
+                   height={350}
+                   width={350}
+                   />
+                  </div>
                     <div className="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
                     <div class="card-body">
             <span

@@ -13,7 +13,7 @@ function Resume() {
                                 <div className="container">
 
                                     <div className="section-title">
-                                        <h2>Experience</h2>
+                                        <h2>Experience </h2>
                                     </div>
 
                                     <div className="row">

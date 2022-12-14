@@ -4,7 +4,7 @@ import Contact from '../Contact/Contact'
 import Project from '../Project/Project'
 import Resume from '../Resume/Resume'
 import Skill from '../Skill/Skill'
-import resume from "../Component/Images/resume.pdf"
+import resume from "../Component/Images/cv.pdf"
 import Achievement from '../Achievement/Achievement'
 
 function Dock() {

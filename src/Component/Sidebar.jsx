@@ -31,10 +31,6 @@ function Sidebar() {
                     <nav id="navbar" className="nav-menu navbar mt-4 ms-2">
                         <ul>
                             <li>
-                                <a href="#hero" className="nav-link  "><i className="fa fa-home"></i>
-                                    <span>Home</span></a>
-                            </li>
-                            <li>
                                 <a href="#about" className="nav-link "><i className="fa fa-user"></i><span>About</span></a>
                             </li>
                             <li>
@@ -42,9 +38,16 @@ function Sidebar() {
                             </li>
                             <li>
                                 <a href="#portfolio" className="nav-link "><i className="fa fa-project-diagram"></i>
-                                    <span>Portfolio</span></a>
+                                    <span>Projects</span></a>
                             </li>
-                            
+                            <li>
+                                <a href="#professional" className="nav-link "><i className="fa-solid fa-lock"></i>
+                                    <span>Experience</span></a>
+                            </li>
+                            <li>
+                                <a href="#Achieve" className="nav-link "><i className="fa-solid fa-tag"></i>
+                                    <span>Achievements</span></a>
+                            </li>
                             <li>
                                 <a href="#contact" className="nav-link "><i className="fa fa-contact-book"></i>
                                     <span>Contact</span></a>

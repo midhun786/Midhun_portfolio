@@ -5,6 +5,7 @@ import Project from '../Project/Project'
 import Resume from '../Resume/Resume'
 import Skill from '../Skill/Skill'
 import resume from "../Component/Images/resume.pdf"
+import Achievement from '../Achievement/Achievement'
 
 function Dock() {
     return (
@@ -38,6 +39,7 @@ function Dock() {
             <Skill></Skill>
             <Project></Project>
             <Resume></Resume>
+            <Achievement></Achievement>
             <Contact></Contact>
 
             <a href="#hero" id='top' className='back-to-top d-flex align-items-center justify-content-center'><i className="fas fa-angle-double-up"></i></a>

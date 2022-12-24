@@ -4,7 +4,7 @@ import Contact from '../Contact/Contact'
 import Project from '../Project/Project'
 import Resume from '../Resume/Resume'
 import Skill from '../Skill/Skill'
-import cv from "../Resume/Images/cv.pdf"
+// import cv from "../Resume/Images/cv.pdf"
 import Achievement from '../Achievement/Achievement'
 
 function Dock() {
@@ -18,14 +18,14 @@ function Dock() {
                     <div className="row">
                 <div className="col-sm-4 col-6">
                   <a href={""} target="_blank" rel="noreferrer">
-                    <a href={cv} download type="button" className="btn btn-danger">
+                    <a href={"https://drive.google.com/file/d/19AWO7_nUUe-mija3iqHFgioTbl-9w_df/view?usp=share_link"} target={"_blank"} type="button" className="btn btn-danger">
                       Resume
                     </a>
                   </a>
                 </div>
                 <div className="col-sm-5 col-6">
                   <a href="#contact">
-                    <button type="button" className="btn btn-danger" >
+                    <button type="button" className="btn btn-danger">
                       Hire Me
                     </button>
                   </a>

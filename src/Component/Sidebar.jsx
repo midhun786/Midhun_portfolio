@@ -41,11 +41,11 @@ function Sidebar() {
                                     <span>Projects</span></a>
                             </li>
                             <li>
-                                <a href="#professional" className="nav-link "><i className="fa-solid fa-lock"></i>
+                                <a href="#Experience" className="nav-link "><i className="fa-solid fa-lock"></i>
                                     <span>Experience</span></a>
                             </li>
                             <li>
-                                <a href="#Achieve" className="nav-link "><i className="fa-solid fa-tag"></i>
+                                <a href="#Achievement" className="nav-link "><i className="fa-solid fa-tag"></i>
                                     <span>Achievements</span></a>
                             </li>
                             <li>

@@ -9,7 +9,7 @@ function Resume() {
                 <div className="container">
                     <div className="d-flex justify-content-between align-items-center">
                         <main id="main">
-                            <section id="resume" className="portfolio section-bg">
+                            <section id="Experience" className="portfolio section-bg">
                                 <div className="container">
 
                                     <div className="section-title">

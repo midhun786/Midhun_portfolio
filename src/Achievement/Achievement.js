@@ -12,7 +12,7 @@ function Achievement() {
                 <div className="container">
                     <div className="d-flex justify-content-between align-items-center">
                         <main id="main">
-                            <section id="resume" className="portfolio section-bg">
+                            <section id="Achievement" className="portfolio section-bg">
                                 <div className="container">
 
                                     <div className="section-title">

@@ -15,7 +15,6 @@ function Resume() {
                                     <div className="section-title">
                                         <h2>Experience </h2>
                                     </div>
-
                                     <div className="row">
                                         <div className="col-lg-12">
                                            <h3>Gestamp Automotive Chennai Pvt Ltd <span className='fs-italic' style={{display:"inline",color:"brown"}}>(2019 - 2020)</span></h3> 

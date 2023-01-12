@@ -72,19 +72,18 @@ function Project() {
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12">
       <div class="card h-60 p-3">
-        <div class="card-header text-center fw-bold fs-4 fst-italic">Pizza Hut App</div>
+        <div class="card-header text-center fw-bold fs-4 fst-italic">Pizza App</div>
         <img src={project3} class="card-img-top" alt="..." />
         <div class="card-body">
           
         </div>
         <div class="card-footer text-center">
           <div class=""  aria-label="Basic outlined example">
-          <a href="https://github.com/midhun786/pizza-app-frontEnd" target={"_blank"} type="button" class="btn btn-outline-dark"><i class="fa-brands fa-github"></i> F-CODE</a>&nbsp;&nbsp;
-          <a href="https://splendid-jalebi-330301.netlify.app"target={"_blank"} type="button" class="btn btn-outline-danger"><i class="fas fa-link"></i> LIVE</a> &nbsp;
-          <a href="https://github.com/midhun786/pizza-app-backend" target={"_blank"} type="button" class="btn btn-outline-dark"><i class="fa-brands fa-github"></i> B-CODE</a> &nbsp;&nbsp;
+          <a href="https://github.com/midhun786/pizzas_delivery_frontend" target={"_blank"} type="button" class="btn btn-outline-dark"><i class="fa-brands fa-github"></i> F-CODE</a>&nbsp;&nbsp;
+          <a href="https://euphonious-starburst-aa7bf6.netlify.app"target={"_blank"} type="button" class="btn btn-outline-danger"><i class="fas fa-link"></i> LIVE</a> &nbsp;
+          <a href="https://github.com/midhun786/pizzas_delivery_backend" target={"_blank"} type="button" class="btn btn-outline-dark"><i class="fa-brands fa-github"></i> B-CODE</a> &nbsp;&nbsp;
         </div>
-
-        </div>
+         </div>
       </div>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12">
@@ -97,7 +96,7 @@ function Project() {
         <div class="card-footer text-center">
           <div class=""  aria-label="Basic outlined example">
           <a href="https://github.com/midhun786/Daily-notes-app-frontEnd" target={"_blank"} type="button" class="btn btn-outline-dark"><i class="fa-brands fa-github"></i> F-CODE</a>&nbsp;&nbsp;
-          <a href="https://verdant-platypus-2a93fa.netlify.app/" target={"_blank"} type="button" class="btn btn-outline-danger"><i class="fas fa-link"></i> LIVE</a> &nbsp;
+          <a href="https://verdant-platypus-2a93fa.netlify.app" target={"_blank"} type="button" class="btn btn-outline-danger"><i class="fas fa-link"></i> LIVE</a> &nbsp;
           <a href="https://github.com/midhun786/Daily-notes-app-backEnd" target={"_blank"} type="button" class="btn btn-outline-dark"><i class="fa-brands fa-github"></i> B-CODE</a>&nbsp;&nbsp;
           </div>
 

@@ -18,7 +18,7 @@ function Dock() {
                     <div className="row">
                 <div className="col-sm-4 col-6">
                   <a href={""} target="_blank" rel="noreferrer">
-                    <a href={"https://drive.google.com/file/d/19AWO7_nUUe-mija3iqHFgioTbl-9w_df/view?usp=share_link"} target={"_blank"} type="button" className="btn btn-danger">
+                    <a href={"https://drive.google.com/file/d/1Yvkic6QxUR5D7EQkH1xuwnbPnBdPaOOQ/view?usp=share_link"} target={"_blank"} type="button" className="btn btn-danger">
                       Resume
                     </a>
                   </a>

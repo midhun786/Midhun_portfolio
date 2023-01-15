@@ -22,10 +22,10 @@ function Project() {
                                     <div className="row" data-aos="fade-up">
                                         <div className="col-lg-12 d-flex justify-content-center">
                                             <ul id="portfolio-flters">
-                                                <li data-filter=".filter" className="filter-active">ALL</li>
-                                                {/* <li data-filter=".filter-app">App</li>
-                                                <li data-filter=".filter-card">Card</li>
-                                                <li data-filter=".filter-web">Web</li> */}
+                                                <li data-filter=".filter" className="filter-active">Common credentials</li>
+                                                <h2>For User and Admin</h2>
+                                                <h3>Email : midhunkumarengineer98@gmail.com</h3>
+                                                <h3>Password : 12345678</h3>
                                             </ul>
                                         </div>
                                     </div>

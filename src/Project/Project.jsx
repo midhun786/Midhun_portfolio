@@ -22,14 +22,11 @@ function Project() {
                                     <div className="row" data-aos="fade-up">
                                         <div className="col-lg-12 d-flex justify-content-center">
                                             <ul id="portfolio-flters">
-                                                <li data-filter=".filter" className="filter-active">Common credentials</li>
-                                                <h2>For User </h2>
-                                                <h3>Email : midhunkumarengineer98@gmail.com</h3>
-                                                <h3>Password : 12345678</h3>
-                                                <h2>For Admin </h2>
-                                                <h3>Email : midhunkumar71371@gmail.com</h3>
-                                                <h3>Password : admin123</h3>
-
+                                                <li data-filter=".filter" className="filter-active" style={{display:"block"}}>Common credentials</li>
+                                               
+                                                <span style={{display:"block"}}><span className="fw-bold">User</span> : midhunkumarengineer98@gmail.com || <span>Password : 12345678</span></span>
+                                                
+                                                <span><span className="fw-bold" style={{display:"inline"}}>Admin</span> : midhunkumar71371@gmail.com || <span> Password : admin123</span></span>
                                             </ul>
                                         </div>
                                     </div>
